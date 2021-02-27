@@ -1,0 +1,38 @@
+body {
+    border: 2px solid black;
+    height: 300px;
+    width: 662px;
+    text-align: left;
+    margin-top: 30px;
+}
+
+h1:hover{
+	color: blue; 
+	cursor: pointer;
+	text-transform: uppercase;
+}
+h2:hover{
+	color: blue; 
+	cursor: pointer;
+	text-transform: uppercase;
+}
+h3:hover{
+	color: blue; 
+	cursor: pointer;
+	text-transform: uppercase;
+}
+h4:hover{
+	color: blue; 
+	cursor: pointer;
+	text-transform: uppercase;
+}
+h5:hover{
+	color: blue; 
+	cursor: pointer;
+	text-transform: uppercase;
+}
+h6:hover{
+	color: blue; 
+	cursor: pointer;
+	text-transform: uppercase;
+}
